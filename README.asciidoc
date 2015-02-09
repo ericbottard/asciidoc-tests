@@ -1,1 +1,4 @@
-Hello
+
+:foo: world
+
+Hello {foo}
